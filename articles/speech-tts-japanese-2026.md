@@ -5,6 +5,7 @@ type: "tech"
 topics: ["tts", "speech", "ai"]
 published: true
 published_at: 2026-09-28 11:50
+publication_name: mkj
 ---
 
 株式会社 松尾研究所で働いている[栗原](https://x.com/Kiyosh_Kurihara)です。
